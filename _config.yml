@@ -21,3 +21,4 @@ markdown: kramdown
 
 gems:
   - jekyll-sitemap
+  - jekyll-last-modified-at
