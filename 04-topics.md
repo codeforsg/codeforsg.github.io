@@ -2,6 +2,7 @@
 layout: page
 title: Topics
 permalink: by-topic/
+comments: true
 ---
 
 Common threads within government include:

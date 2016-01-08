@@ -2,6 +2,7 @@
 layout: page
 title: Other countries
 permalink: other-countries/
+comments: true
 ---
 
 ## USA

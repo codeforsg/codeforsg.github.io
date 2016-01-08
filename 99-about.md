@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+comments: true
 ---
 
 This is an **independent** site. It aims to:

@@ -2,6 +2,7 @@
 layout: page
 title: Views of SWE in SG
 permalink: swe-in-sg-views/
+comments: true
 ---
 
 The state of software engineering in Singapore has improved in recent years, with a growing tech startup scene bolstering the local talent pool, and startups like GDS and ESTL within government. Still, to understand the obstacles that stand in our way, it is useful to read about the state of software engineering (and talent) in Singapore over the past few years.
