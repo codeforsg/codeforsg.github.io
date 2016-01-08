@@ -24,3 +24,4 @@
 *[USDS]: US Digital Service
 *[iN2015]: iDA Intelligent Nation 2015 Masterplan
 *[CDA]: Cross-disciplinary Data-intensive Analytics
+*[SREs]: Site reliability engineers

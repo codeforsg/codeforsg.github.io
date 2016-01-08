@@ -24,7 +24,7 @@ It is supported by the [Smart Nation Planning Office](/gov-others) under the Pri
 
 ### Data Science Group ###
 
-Consisting of 20+ data scientists and software engineers, DSG aims to encourage and support data-driven decision making for public policy formulation and service delivery.[^1]
+Consisting of nearly 30 data scientists and software engineers, DSG aims to encourage and support data-driven decision making for public policy formulation and service delivery.[^1]
 
 They provide support to other government agencies on a project-by-project basis (e.g. by producing PoCs) and design self-service data analysis tools for WoG. On the public front, they run the data exchange platform [data.gov.sg](https://data.gov.sg), and the [beeline.sg](http://beeline.sg) transport experiment.
 

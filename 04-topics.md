@@ -38,6 +38,17 @@ Common threads within government include:
     * Long procurement cycles are hard to reconcile with an iterative and agile model of software development.
     * MOE ESTL
     * iDA GDS
+* Empowering SWEs with solid infrastructure.
+    * Code review tools: [Phabricator](http://phabricator.org/), [GitLab](https://about.gitlab.com/)
+    * Self service analytics and ops dashboards.
+    * Code search tool e.g. [livegrep](https://github.com/livegrep/livegrep)
+    * Universal search that combines code search, internal wiki search, Slack/IRC messages, etc.
+    * Automated testing
+        * Unit testing frameworks (with shimming, where appropriate).
+        * End-to-end integration tests.
+        * Browser automation tests (e.g. [Selenium](http://www.seleniumhq.org/))
+    * Data analytics infrastructure.
+* Importance of an engineering-driven decision making culture.
 * Smart Nation
     * The successor to iN2015, Smart Nation describes a better Singapore made possible through greater access to data, greater citizen participation in government and a government that leverages technology capabilities to better serve citizens.
     * It is a major impetus driving the need for inhouse software engineering expertise in order to best leverage opportunities made possible through the application of computer science.
@@ -45,4 +56,5 @@ Common threads within government include:
     * [Lee Hsien Loong's speech launching Smart Nation, 24 Nov 2014](http://www.pmo.gov.sg/mediacentre/transcript-prime-minister-lee-hsien-loongs-speech-smart-nation-launch-24-november)
     * [SNPO Smart Nation site](http://www.pmo.gov.sg/smartnation)
     * [iDA Smart Nation site](https://www.ida.gov.sg/smartnation)
+    * [Forbes microsite](http://www.smartnation-forbes.com/)
 {% include common.md %}

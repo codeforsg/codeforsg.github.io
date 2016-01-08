@@ -16,6 +16,9 @@ permalink: gov-others/
     * Small group of software engineers working with other MND agencies
         * DP Lab, Information Systems departments.
     * Established a data exchange and visualisation platform **ePlanner**, designed as data layers overlaid on top of an interactive map[^1].
+* NUS Smart Nation research cluster
+    * To involve >50 researchers working on gathering big data, optimising results, and cybersecurity.
+    * [Straits Times article](http://www.straitstimes.com/singapore/nus-to-launch-smart-nation-research-cluster)
 
 ## Defence
 
