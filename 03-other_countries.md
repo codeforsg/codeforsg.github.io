@@ -15,7 +15,7 @@ permalink: other-countries/
     * [18F](https://18f.gsa.gov/). Software engineering and culture consultant. -- "Here’s the best way to build software (and you can too!)"
         * 143 people (as at Jan 2016).
         * **[18F guides](https://pages.18f.gov/guides/): Curated knowledge base of best practices and guidelines.**
-        * 18F partners with other organisations on a fee-for-service basis.
+        * 18F partners with other organisations on a fee-for-service basis. [Partnership Playbook](https://pages.18f.gov/partnership-playbook/).
         * Structure: 18F has 143+ people, with the Consulting team (design and product strategists), Design team (Frontend and Visual designers), and Delivery team (software developers, product leads, and SREs).
     * [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/). Parachute technologists from private sectors into government agencies for 1-year stints.
     * [Code for America](http://www.codeforamerica.org/). Non-profit that pairs local government with teams of experienced technologists for 1 year. Like Teach for America, but for coding.
@@ -31,6 +31,7 @@ permalink: other-countries/
 * Background: [Martha Lane Fox's masterplan](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox)
     * [Executive Summary](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60995/Directgov_20Executive_20Sum_20FINAL.pdf)
 * **[GDS Service Manual](https://www.gov.uk/service-manual): a set of guidelines and useful information**
+    * [Section for CTOs](https://www.gov.uk/service-manual/chief-technology-officers). Useful for educating stakeholders (not just CTOs) on technical issues, e.g. how to treat [security](https://www.gov.uk/service-manual/technology/security-as-enabler.html) or [open source software](https://www.gov.uk/service-manual/making-software/open-source.html).
 * [Government as a Platform](https://gds.blog.gov.uk/category/government-as-a-platform/)
     * [High-level introduction by Mike Bracken](https://gds.blog.gov.uk/2015/03/29/government-as-a-platform-the-next-phase-of-digital-transformation/)
     * Technical elaboration on GaaP: [Building a platform to host digital services](https://gds.blog.gov.uk/2015/09/08/building-a-platform-to-host-digital-services/)
