@@ -20,8 +20,19 @@ Common threads within government include:
     * [I2R Data Analytics Dept](http://datam.i2r.a-star.edu.sg/)
     * IHPC Computing Science ([CDA](http://www.a-star.edu.sg/ihpc/Research/Computing-Science-CS/Cross-disciplinary-Data-intensive-Analytics-CDA-Group/Overview.aspx) and [Complex Systems](http://www.a-star.edu.sg/ihpc/cxsy))
     * iDA GDS Data Science Group
-* Emphasis on hiring and grooming top-tier software engineering talent.
-    * MOE ESTL
+* Talent management
+    * Emphasis on hiring and grooming top-tier software engineering talent.
+        * MOE ESTL
+    * Why it is important to hire the best
+        * An organisation is less willing to tolerate incompetence or poor team players when they are paying more for them.
+        * Top tier software engineers are good value for money, since the value of a team is affected significantly by its weakest member (stronger members need to spend time mentoring inexperienced members, and cleaning up the mess of weak members.)
+        * An organisation that is not willing to pay for good engineers or support engineers' personal growth will see their top people leave, bringing others along with them (since people want to work with the best people).
+    * Hiring tips
+        * [Engineering Management - Hiring, Wong Yishan (ex-Facebook CTO, ex-Reddit CEO)](http://algeri-wong.com/yishan/engineering-management-hiring.html)
+
+        > A players hire A players, B players hire C players and C players hire D players. -- Steve Jobs.
+    * Need to avoid traditional policies where organisations promote their best engineers into management and policy work, leaving only incompetent engineers behind
+    * Need to avoid traditional view that software engineering is a low-level job that is easily outsourced and that software engineers are simply 'code monkeys'
 * Educating management on technical CS details.
     * [Blog on Machine Learning for the layman](https://annalyzin.wordpress.com/) by a group of MINDEF employees
     * *UK*: [Guide for CTOs](https://www.gov.uk/service-manual/chief-technology-officers) by UK GDS
@@ -38,7 +49,7 @@ Common threads within government include:
         * The contractor's process and progress should be continuously assessed, and problems caught right when they are introduced into the codebase when they can be fixed.
     * Long procurement cycles are hard to reconcile with an iterative and agile model of software development.
     * MOE ESTL
-    * iDA GDS
+    * GTO GDS
 * Empowering SWEs with solid infrastructure.
     * Code review tools: [Phabricator](http://phabricator.org/), [GitLab](https://about.gitlab.com/)
     * Self service analytics and ops dashboards.
