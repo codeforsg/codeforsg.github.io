@@ -2,6 +2,7 @@
 layout: page
 title: Other partners
 permalink: gov-others/
+comments: true
 ---
 
 ## Efforts by incumbent organisations

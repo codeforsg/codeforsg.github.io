@@ -3,6 +3,7 @@ layout: page
 title: Startups in Gov
 subtitle: Developing in-house software engineering capabilities.
 permalink: gov-startups/
+comments: true
 ---
 
 *Developing in-house software engineering capabilities.*
@@ -86,7 +87,6 @@ Presently, it is focused on building apps for school teachers and students, such
 [^5]: > As an engineer in the Experimental Systems and Technology Lab (ESTL), my role is to explore the use of cutting-edge technology, in the area of data centre infrastructure, to raise MOE's infrastructure to the next level. The ESTL team follows the lead of technology leaders in the various fields of engineering to achieve our goal. We explore the latest data centre architectures employed by giants such as Facebook and IBM, and also open-sourced tools such as OpenStack and Apache Mesos to orchestrate a densely populated virtual environment. Data Centre infra aside, I'm also in charge of setting up a Single Sign-On (SSO) authentication backend using Keycloak, for use by MOE's education officers. -- [Eugene Chow](https://www.linkedin.com/in/eugenechow)
 
 ### Recruitment ###
-* Email: [hello@estl.moe](mailto:hello@estl.moe)
 * Apply through Prof. [Ben Leong](https://www.comp.nus.edu.sg/~bleong/)
 
 {% include common.md %}
