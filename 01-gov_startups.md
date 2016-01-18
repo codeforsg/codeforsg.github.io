@@ -8,7 +8,7 @@ comments: true
 
 *Developing in-house software engineering capabilities.*
 
-## iDA Government Digital Services
+## **GTO Government Digital Services**
 GDS is divided into 3 divisions:
 
 - Data Science Group, led by [Liu Feng Yuan](https://www.linkedin.com/in/feng-yuan-liu-9b09aa42)
@@ -16,6 +16,8 @@ GDS is divided into 3 divisions:
 - Platform as a Service, led by [Parimal Aswani](https://www.linkedin.com/in/paswani)
 
 It is supported by the [Smart Nation Planning Office](/gov-others) under the Prime Minister's Office. It is located at the [iDA Hive](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing) in the Sandcrawler building next to Fusionopolis at one-north.
+
+Over the course of 2016, GDS will be folded along with the rest of GCIO into the newly created GTO (headed by current iDA MD Jacqueline Poh.)[^2]
 
 > * [2015-12-28: GDS - Interview with Chan Cheow Hoe, Hd GCIO / Asst CE - The Straits Times](http://www.straitstimes.com/singapore/this-hives-abuzz-with-it-solutions)
 > * [2015-10-29: iDA Press Release on GDS](https://www.ida.gov.sg/About-Us/Newsroom/Media-Releases/2015/Improving-Lives-Through-Data-Science-and-Analytics)
@@ -34,6 +36,7 @@ They provide support to other government agencies on a project-by-project basis 
 > * [2015-08-05: DSG - Beeline - ChannelNewsAsia](http://www.channelnewsasia.com/news/singapore/beeline-app-launched-for/2032058.html)
 
 [^1]: [iDA Hive Factsheet, 29 Oct 2015](/download/2015-10-29 IDA Hive Factsheet.pdf).
+[^2]: [MCI Press release, Formation of Infocomm Media Development Authority and Government Technology Organisation.](http://www.mci.gov.sg/web/corp/press-room/categories/press-releases/content/formation-of-infocomm-media-development-authority-and-government-technology-organisation)
 
 ### Product Design & Development ###
 
@@ -59,9 +62,9 @@ PDD also has UX designers and a dedicated design experience lab.
 
 ### Platform as a Service ###
 
-The PaaS team is relatively new (established mid-2015) and is in the PoC stage. It aims to build a open and cloud-native platform which other government software engineers can use to quickly build applications for the public.[^2]
+The PaaS team is relatively new (established mid-2015) and is in the PoC stage. It aims to build a open and cloud-native platform which other government software engineers can use to quickly build applications for the public.[^3]
 
-[^2]: [Parimal Aswani's Linkedin profile](https://www.linkedin.com/in/paswani)
+[^3]: > Leading the Government Platform-as-a-service (PaaS) initiative to bring a new approach to application design, development and deployment. Building an agile, open and cloud-native application infrastructure to provide the government with a modern IT platform that accelerates delivery of quality software and e-services for the citizens. -- [Parimal Aswani's Linkedin profile](https://www.linkedin.com/in/paswani)
 
 Similar efforts have been undertaken in the US with [18F's Cloud Foundry-based cloud.gov](https://cloud.gov/) (in beta) and in the UK with [GDS's GaaP](https://gds.blog.gov.uk/2015/09/08/building-a-platform-to-host-digital-services/) (in [discovery](https://www.gov.uk/service-manual/phases/discovery.html)).
 
@@ -70,21 +73,21 @@ Similar efforts have been undertaken in the US with [18F's Cloud Foundry-based c
 * Apply through the respective directors or [Steven Goh](mailto:steven_koh@ida.gov.sg) for PDD
 * GDS also hosts [a recruiting competition on Hackertrail](https://www.hackertrail.com/ida) (deadline: end Feb 2016)
 
-## MOE Experimental Systems and Technology Lab
+## **MOE Experimental Systems and Technology Lab**
 *Building software to mould the future of our nation*
 
-Established in July 2014, [ESTL](http://blog.estl.moe/) is a team of 10+ software engineers working on hard problems in education, led by Prof. [Ben Leong](http://www.comp.nus.edu.sg/~bleong/) (joint appointments of Director, ESTL at MOE and A/P at NUS School of Computing)[^3].
-This startup is managed as an independent setup with the team being employed through a lumpsum grant administered via NUS[^4], ensuring independence and maximum agility with autonomy over hiring and compensation.
+Established in July 2014, [ESTL](http://blog.estl.moe/) is a team of 10+ software engineers working on hard problems in education, led by Prof. [Ben Leong](http://www.comp.nus.edu.sg/~bleong/) (joint appointments of Director, ESTL at MOE and A/P at NUS School of Computing)[^4].
+This startup is managed as an independent setup with the team being employed through a lumpsum grant administered via NUS[^5], ensuring independence and maximum agility with autonomy over hiring and compensation.
 
-Presently, it is focused on building apps for school teachers and students, such as [Coursemology](https://github.com/Coursemology/coursemology2) (an online learning environment and assessment system with gameification), and a SSO backed using Keycloak[^5]. It is building its own data centre to host its internal applications[^4]. Given its small size, its current strategy is to build whatever it can in-house, and closely manage the tenders for the remaining projects to ensure that its technical standards are met.
+Presently, it is focused on building apps for school teachers and students, such as [Coursemology](https://github.com/Coursemology/coursemology2) (an online learning environment and assessment system with gameification), and a SSO backed using Keycloak[^6]. It is building its own data centre to host its internal applications[^5]. Given its small size, its current strategy is to build whatever it can in-house, and closely manage the tenders for the remaining projects to ensure that its technical standards are met.
 
 > * [GitHub](https://github.com/moexmen)
 
-[^3]: > With effect from 1 July 2014, I will be taking up a joint appointment with the Singapore Ministry of Education as the Founding Director of the Experimental Systems and Technology Lab, MOE. The Ministry of Education has decided that there is a need for the Civil Service to build its own internal software engineering capabilities and I was approached to help to set up this new lab with the Ministry. This will be a 3-year joint appointment in the first instance. When fully operational, the new lab will have 15 fulltime software engineers and an annual operating budget of $2 million. In this new appointment, I will also be working with iDA on the review of the HR management policies for software engineers within the public sector. -- [Description of ESTL in Ben Leong's tenure service statement](http://www.comp.nus.edu.sg/~bleong/tenure/benleong-ss.pdf).
+[^4]: > With effect from 1 July 2014, I will be taking up a joint appointment with the Singapore Ministry of Education as the Founding Director of the Experimental Systems and Technology Lab, MOE. The Ministry of Education has decided that there is a need for the Civil Service to build its own internal software engineering capabilities and I was approached to help to set up this new lab with the Ministry. This will be a 3-year joint appointment in the first instance. When fully operational, the new lab will have 15 fulltime software engineers and an annual operating budget of $2 million. In this new appointment, I will also be working with iDA on the review of the HR management policies for software engineers within the public sector. -- [Description of ESTL in Ben Leong's tenure service statement](http://www.comp.nus.edu.sg/~bleong/tenure/benleong-ss.pdf).
 
-[^4]: Career ads on NUS site [[1]](https://jobs.nus.edu.sg/career/Default.asp?PID=3&AC=OHR&EC=OHR&GC=G01&JobID=2233&LID=1&CA023457278013229), [[2]](https://jobs.nus.edu.sg/career/Default.asp?PID=3&AC=OHR&EC=OHR&GC=G01&JobID=2250&LID=1&CA02904482603073)
+[^5]: Career ads on NUS site [[1]](https://jobs.nus.edu.sg/career/Default.asp?PID=3&AC=OHR&EC=OHR&GC=G01&JobID=2233&LID=1&CA023457278013229), [[2]](https://jobs.nus.edu.sg/career/Default.asp?PID=3&AC=OHR&EC=OHR&GC=G01&JobID=2250&LID=1&CA02904482603073)
 
-[^5]: > As an engineer in the Experimental Systems and Technology Lab (ESTL), my role is to explore the use of cutting-edge technology, in the area of data centre infrastructure, to raise MOE's infrastructure to the next level. The ESTL team follows the lead of technology leaders in the various fields of engineering to achieve our goal. We explore the latest data centre architectures employed by giants such as Facebook and IBM, and also open-sourced tools such as OpenStack and Apache Mesos to orchestrate a densely populated virtual environment. Data Centre infra aside, I'm also in charge of setting up a Single Sign-On (SSO) authentication backend using Keycloak, for use by MOE's education officers. -- [Eugene Chow](https://www.linkedin.com/in/eugenechow)
+[^6]: > As an engineer in the Experimental Systems and Technology Lab (ESTL), my role is to explore the use of cutting-edge technology, in the area of data centre infrastructure, to raise MOE's infrastructure to the next level. The ESTL team follows the lead of technology leaders in the various fields of engineering to achieve our goal. We explore the latest data centre architectures employed by giants such as Facebook and IBM, and also open-sourced tools such as OpenStack and Apache Mesos to orchestrate a densely populated virtual environment. Data Centre infra aside, I'm also in charge of setting up a Single Sign-On (SSO) authentication backend using Keycloak, for use by MOE's education officers. -- [Eugene Chow](https://www.linkedin.com/in/eugenechow)
 
 ### Recruitment ###
 * Apply through Prof. [Ben Leong](https://www.comp.nus.edu.sg/~bleong/)

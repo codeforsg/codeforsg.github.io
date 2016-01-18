@@ -5,7 +5,7 @@ excerpt: "Software engineering in the Singapore government: startups in governme
 
 ## [Startups within government](/gov-startups/)
 
-* iDA GDS (Data Science, Product Design & Dev, PaaS)
+* GTO GDS (Data Science, Product Design & Dev, PaaS) *(formerly under iDA)*
 * MOE ESTL
 
 ## [Other partners](/gov-others/)
