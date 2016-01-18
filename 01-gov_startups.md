@@ -74,14 +74,17 @@ Similar efforts have been undertaken in the US with [18F's Cloud Foundry-based c
 * GDS also hosts [a recruiting competition on Hackertrail](https://www.hackertrail.com/ida) (deadline: end Feb 2016)
 
 ## **MOE Experimental Systems and Technology Lab**
-*Building software to mould the future of our nation*
+*Building software to mould the future of our nation.*
 
 Established in July 2014, [ESTL](http://blog.estl.moe/) is a team of 10+ software engineers working on hard problems in education, led by Prof. [Ben Leong](http://www.comp.nus.edu.sg/~bleong/) (joint appointments of Director, ESTL at MOE and A/P at NUS School of Computing)[^4].
 This startup is managed as an independent setup with the team being employed through a lumpsum grant administered via NUS[^5], ensuring independence and maximum agility with autonomy over hiring and compensation.
 
-Presently, it is focused on building apps for school teachers and students, such as [Coursemology](https://github.com/Coursemology/coursemology2) (an online learning environment and assessment system with gameification), and a SSO backed using Keycloak[^6]. It is building its own data centre to host its internal applications[^5]. Given its small size, its current strategy is to build whatever it can in-house, and closely manage the tenders for the remaining projects to ensure that its technical standards are met.
+Presently, it is focused on building apps for school teachers and students, such as Coursemology ([GitHub](https://github.com/Coursemology/coursemology2), [video showing demo](https://youtu.be/zeduy_JZKfE?t=13m44s)) (an online learning environment and assessment system with gameification), and a SSO backed using Keycloak[^6]. It is building its own data centre to host its internal applications[^5]. Given its small size, its current strategy is to build whatever it can in-house, and closely manage the tenders for the remaining projects to ensure that its technical standards are met.
 
 > * [GitHub](https://github.com/moexmen)
+> * [Coursemology demo during presentation](https://youtu.be/zeduy_JZKfE?t=13m44s)
+>    [![Coursemology demo](/images/estl/coursemology.png)](https://youtu.be/zeduy_JZKfE?t=13m44s)
+
 
 [^4]: > With effect from 1 July 2014, I will be taking up a joint appointment with the Singapore Ministry of Education as the Founding Director of the Experimental Systems and Technology Lab, MOE. The Ministry of Education has decided that there is a need for the Civil Service to build its own internal software engineering capabilities and I was approached to help to set up this new lab with the Ministry. This will be a 3-year joint appointment in the first instance. When fully operational, the new lab will have 15 fulltime software engineers and an annual operating budget of $2 million. In this new appointment, I will also be working with iDA on the review of the HR management policies for software engineers within the public sector. -- [Description of ESTL in Ben Leong's tenure service statement](http://www.comp.nus.edu.sg/~bleong/tenure/benleong-ss.pdf).
 
