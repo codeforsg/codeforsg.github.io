@@ -27,3 +27,4 @@
 *[SREs]: Site reliability engineers
 *[GCIO]: Government Chief Information Office
 *[GTO]: Government Technology Organisation
+*[MOE]: Ministry of Education
