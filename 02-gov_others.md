@@ -35,7 +35,16 @@ comments: true
     * **Politicians**: PM Lee Hsien Loong, Smart Nation Minister Vivian Balakrishnan, Janil Puthucheary
     * [Civil servants](http://app.sgdi.gov.sg/listing.asp?agency_subtype=dept&agency_id=0000026757): Tan Kok Yam
 
+## Relationship between Smart Nation partners
+
+* [CSA](https://www.csa.gov.sg/) has national oversight of cybersecurity including both the public and private sector, with GTO responsible for rule enforcement in the public sector.[^3]
+* SNPO will coordinate Smart Nation initiatives, but all the engineering work and related implementation will be done by GTO.[^3]
+
+
 [^1]: [Exploit Technology for Smart Urban Planning, Peter Quek, CIO URA](/download/2014-10 URA.pdf)
 [^2]: See [Topics](/by-topic/) for more details on Smart Nation.
-
+[^3]: [IDA, MDA to be restructured to capitalise on converging media and ICT landscape, ChannelNewsAsia, 18 Jan 2016.](http://www.channelnewsasia.com/news/singapore/ida-mda-to-be/2433768.html)
+> Channel NewsAsia understands that there will be no overlaps between the two new bodies with related agencies such as the Smart Nation Programme Office (SNPO) and the Cyber Security Agency (CSA).
+For instance, in the area of cybersecurity, CSA has national oversight and is working with respective sectors’ regulators to strengthen their IT security. For Government ICT initiatives, it will work with GTO in the area of cybersecurity, but the latter will be in charge of enforcing regulations in the public sector.
+SNPO, which is under the Prime Minister’s Office, remains the coordinating body in the public sector where Smart Nation initiatives are concerned. However GTO, not SNPO, will be the agency that implements Smart Nation's core infrastructure, Channel NewsAsia understands.
 {% include common.md %}
