@@ -8,6 +8,9 @@ comments: true
 
 *Developing in-house software engineering capabilities.*
 
+* TOC
+{:toc}
+
 ## **GTO Government Digital Services**
 GDS is divided into 3 divisions:
 
