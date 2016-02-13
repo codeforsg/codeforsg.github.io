@@ -5,6 +5,12 @@ permalink: swe-in-sg-views/
 comments: true
 ---
 
+Derrick Ko has written a commentary on the [state of software engineering in Singapore in 2016](https://medium.com/tech-in-asia/how-dire-is-singapore-s-engineering-ecosystem-618a3e5b8ce9), which is a well-researched and balanced summary that is much more current than the information found on this page.
+
+The initial version of this page is left below for historical interest.
+
+---
+<br/>
 The state of software engineering in Singapore has improved in recent years, with a growing tech startup scene bolstering the local talent pool, and startups like GDS and ESTL within government. Still, to understand the obstacles that stand in our way, it is useful to read about the state of software engineering (and talent) in Singapore over the past few years.
 
 * [Is the engineering field a dead-end career in Singapore? Why? - Quora](https://www.quora.com/Is-the-engineering-field-a-dead-end-career-in-Singapore-Why?share=1)
