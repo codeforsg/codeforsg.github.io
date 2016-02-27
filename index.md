@@ -11,7 +11,7 @@ excerpt: "Software engineering in the Singapore government: startups in governme
 ## [Other partners](/gov-others/)
 
 * Smart Nation partners
-    * Smart Nation Planning Office, PMO
+    * Smart Nation Programme Office, PMO
     * I2R, A\*STAR and IHPC, A*STAR
     * URA
 * Centres of competencies in defence

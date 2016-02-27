@@ -18,7 +18,7 @@ GDS is divided into 3 divisions:
 - Product Design & Development, led by [Mark Lim](https://www.linkedin.com/in/marklcl)
 - Platform as a Service, led by [Parimal Aswani](https://www.linkedin.com/in/paswani)
 
-It is supported by the [Smart Nation Planning Office](/gov-others) under the Prime Minister's Office. It is located at the [iDA Hive](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing) in the Sandcrawler building next to Fusionopolis at one-north.
+It is supported by the [Smart Nation Programme Office](/gov-others) under the Prime Minister's Office. It is located at the [iDA Hive](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing) in the Sandcrawler building next to Fusionopolis at one-north.
 
 Over the course of 2016, GDS will be folded along with the rest of GCIO into the newly created GTO (headed by current iDA MD Jacqueline Poh.)[^2]
 
@@ -43,7 +43,7 @@ They provide support to other government agencies on a project-by-project basis 
 
 ### Product Design & Development ###
 
-PDD is larger (estimated at 60-80 people) and designs government digital services from the ground up. This has been achieved in the form of web portal redesigns and the release of mobile apps (e.g. [myResponder](https://www.ida.gov.sg/~/media/Files/About%20Us/Newsroom/Media%20Releases/2015/1029_Hive/MyResponder%20Factsheet.pdf), OneService).
+PDD is larger (estimated at 60-80 people) and designs government digital services from the ground up. This has been achieved in the form of web portal redesigns and the release of mobile apps (e.g. [myResponder](https://www.ida.gov.sg/~/media/Files/About%20Us/Newsroom/Media%20Releases/2015/1029_Hive/MyResponder%20Factsheet.pdf), [OneService](http://www.gov.sg/~/sgpcmedia/media_releases/MND/press_release/P-20150125-1/attachment/MND%20Press%20release%20(3).pdf)).
 
 PDD also has UX designers and a dedicated design experience lab.
 
@@ -73,8 +73,8 @@ Similar efforts have been undertaken in the US with [18F's Cloud Foundry-based c
 
 ### Recruitment ###
 * [Job description package](https://drive.google.com/file/d/0BwLqF_ka0mesd3h1QkxxT3hSamM/view)
-* Apply through the respective directors or [Steven Goh](mailto:steven_koh@ida.gov.sg) for PDD
-* GDS also hosts [a recruiting competition on Hackertrail](https://www.hackertrail.com/ida) (deadline: end Feb 2016)
+* Apply through the respective directors or [Steven Koh](mailto:steven_koh@ida.gov.sg) for PDD
+* GDS also hosts [a recruiting competition on Hackertrail](https://www.hackertrail.com/ida), as part of its [Technology Associate Programme](https://www.ida.gov.sg/About-Us/Careers-at-IDA/Technology-Associate-Programme) recruitment efforts (deadline: end Feb 2016)
 
 ## **MOE Experimental Systems and Technology Lab**
 *Building software to mould the future of our nation.*
@@ -93,7 +93,7 @@ Presently, it is focused on building apps for school teachers and students, such
 
 [^5]: Career ads on NUS site [[1]](https://jobs.nus.edu.sg/career/Default.asp?PID=3&AC=OHR&EC=OHR&GC=G01&JobID=2233&LID=1&CA023457278013229), [[2]](https://jobs.nus.edu.sg/career/Default.asp?PID=3&AC=OHR&EC=OHR&GC=G01&JobID=2250&LID=1&CA02904482603073)
 
-[^6]: > As an engineer in the Experimental Systems and Technology Lab (ESTL), my role is to explore the use of cutting-edge technology, in the area of data centre infrastructure, to raise MOE's infrastructure to the next level. The ESTL team follows the lead of technology leaders in the various fields of engineering to achieve our goal. We explore the latest data centre architectures employed by giants such as Facebook and IBM, and also open-sourced tools such as OpenStack and Apache Mesos to orchestrate a densely populated virtual environment. Data Centre infra aside, I'm also in charge of setting up a Single Sign-On (SSO) authentication backend using Keycloak, for use by MOE's education officers. -- [Eugene Chow](https://www.linkedin.com/in/eugenechow)
+[^6]: > As an engineer in the Experimental Systems and Technology Lab (ESTL), my role is to explore the use of cutting-edge technology, in the area of data centre infrastructure, to raise MOE's infrastructure to the next level. The ESTL team follows the lead of technology leaders in the various fields of engineering to achieve our goal. We explore the latest data centre architectures employed by giants such as Facebook and IBM, and also open-sourced tools such as OpenStack and Apache Mesos to orchestrate a densely populated virtual environment. Data Centre infra aside, I'm also in charge of setting up a Single Sign-On (SSO) authentication backend using Keycloak, for use by MOE's education officers. -- [Eugene Chow's Linkedin profile](https://www.linkedin.com/in/eugenechow)
 
 ### Recruitment ###
 * Apply through Prof. [Ben Leong](https://www.comp.nus.edu.sg/~bleong/)

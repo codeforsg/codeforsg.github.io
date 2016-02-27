@@ -12,7 +12,7 @@
 *[A*STAR]: Agency for Science, Technology and Research
 *[I2R]: Institute for Infocomm Research
 *[IHPC]: Institute of High Performance Computing
-*[A*DAX]: A\*STAR Data Analytics Exchange
+*[A*DAX]: A*STAR Data Analytics Exchange
 *[PMO]: Prime Minister's Office
 *[URA]: Urban Redevelopment Authority
 *[CSIT]: Centre for Strategic Infocomm Technologies
@@ -29,3 +29,4 @@
 *[GTO]: Government Technology Organisation
 *[MOE]: Ministry of Education
 *[CSA]: Cyber Security Agency
+*[SNPO]: Smart National Programme Office
