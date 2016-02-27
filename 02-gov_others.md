@@ -30,7 +30,7 @@ comments: true
 
 ## Political partners (non-technical)
 
-* [Smart Nation Program Office](http://www.pmo.gov.sg/smartnation), Prime Minister's Office
+* [Smart Nation Programme Office](http://www.pmo.gov.sg/smartnation), Prime Minister's Office
     * Provides **political support** to break down interagency barriers and coordinates initiatives under a common 'Smart Nation'[^2] banner.
     * **Politicians**: PM Lee Hsien Loong, Smart Nation Minister Vivian Balakrishnan, Janil Puthucheary
     * [Civil servants](http://app.sgdi.gov.sg/listing.asp?agency_subtype=dept&agency_id=0000026757): Tan Kok Yam

@@ -18,7 +18,7 @@ GDS is divided into 3 divisions:
 - Product Design & Development, led by [Mark Lim](https://www.linkedin.com/in/marklcl)
 - Platform as a Service, led by [Parimal Aswani](https://www.linkedin.com/in/paswani)
 
-It is supported by the [Smart Nation Planning Office](/gov-others) under the Prime Minister's Office. It is located at the [iDA Hive](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing) in the Sandcrawler building next to Fusionopolis at one-north.
+It is supported by the [Smart Nation Programme Office](/gov-others) under the Prime Minister's Office. It is located at the [iDA Hive](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing) in the Sandcrawler building next to Fusionopolis at one-north.
 
 Over the course of 2016, GDS will be folded along with the rest of GCIO into the newly created GTO (headed by current iDA MD Jacqueline Poh.)[^2]
 
