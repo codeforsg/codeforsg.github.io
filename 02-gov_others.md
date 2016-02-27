@@ -31,9 +31,13 @@ comments: true
 ## Political partners (non-technical)
 
 * [Smart Nation Programme Office](http://www.pmo.gov.sg/smartnation), Prime Minister's Office
-    * Provides **political support** to break down interagency barriers and coordinates initiatives under a common 'Smart Nation'[^2] banner.
+    * Established [Nov 2014](https://www.ida.gov.sg/About-Us/Newsroom/Speeches/2014/Transcript-of-prime-minister-lee-hsien-loong-speech-at-smart-nation-launch-on-24-november).
+    * Provides **political support** to break down interagency barriers[^4] and coordinates initiatives under a common 'Smart Nation'[^2] banner.
     * **Politicians**: PM Lee Hsien Loong, Smart Nation Minister Vivian Balakrishnan, Janil Puthucheary
     * [Civil servants](http://app.sgdi.gov.sg/listing.asp?agency_subtype=dept&agency_id=0000026757): Tan Kok Yam
+
+[^4]: > “It’s a whole of government effort, and that’s why [the SNPO is] parked under the Prime Minister’s Office”. The office is “a very small outfit: our job is to engage, communicate, coordinate, match, push all the actors on to the stage.”
+    [...] Its position within the Prime Minister’s Office is vital for getting this quick action: some decisions involve trade-offs between agencies, but Prime Minister Lee Hsien Loong has set out this vision as a priority for Singapore over the next decade. The SNPO exists to “crystallise the issue, bump it upstairs, get the Prime Minister to decide one way or the other. The point is not to be held up by bureaucratic inertia or infighting.” -- [OpenGov's interview with Smart Nation Minister Vivian Balakrishnan, 18 May 2015](http://www.opengovasia.com/articles/6488-exclusive-interview-singapores-smart-nation-minister)
 
 ## Relationship between Smart Nation partners
 
