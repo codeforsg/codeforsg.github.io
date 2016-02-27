@@ -43,7 +43,7 @@ They provide support to other government agencies on a project-by-project basis 
 
 ### Product Design & Development ###
 
-PDD is larger (estimated at 60-80 people) and designs government digital services from the ground up. This has been achieved in the form of web portal redesigns and the release of mobile apps (e.g. [myResponder](https://www.ida.gov.sg/~/media/Files/About%20Us/Newsroom/Media%20Releases/2015/1029_Hive/MyResponder%20Factsheet.pdf), OneService).
+PDD is larger (estimated at 60-80 people) and designs government digital services from the ground up. This has been achieved in the form of web portal redesigns and the release of mobile apps (e.g. [myResponder](https://www.ida.gov.sg/~/media/Files/About%20Us/Newsroom/Media%20Releases/2015/1029_Hive/MyResponder%20Factsheet.pdf), [OneService](http://www.gov.sg/~/sgpcmedia/media_releases/MND/press_release/P-20150125-1/attachment/MND%20Press%20release%20(3).pdf)).
 
 PDD also has UX designers and a dedicated design experience lab.
 
@@ -73,7 +73,7 @@ Similar efforts have been undertaken in the US with [18F's Cloud Foundry-based c
 
 ### Recruitment ###
 * [Job description package](https://drive.google.com/file/d/0BwLqF_ka0mesd3h1QkxxT3hSamM/view)
-* Apply through the respective directors or [Steven Goh](mailto:steven_koh@ida.gov.sg) for PDD
+* Apply through the respective directors or [Steven Koh](mailto:steven_koh@ida.gov.sg) for PDD
 * GDS also hosts [a recruiting competition on Hackertrail](https://www.hackertrail.com/ida) (deadline: end Feb 2016)
 
 ## **MOE Experimental Systems and Technology Lab**
