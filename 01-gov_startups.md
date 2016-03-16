@@ -48,7 +48,9 @@ PDD is larger (estimated at 60-80 people) and designs government digital service
 PDD also has UX designers and a dedicated design experience lab.
 
 > * [GitHub - iDA GDS PDD](https://github.com/idagds/)
+> * [Medium - Singapore GDS](https://medium.com/singapore-gds)
 > * [Photos of iDA GDS PDD workspace](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing)
+> * [2016-02-10: "Agile workplace", photos and 360-degree video tour of GDS workspace](https://medium.com/singapore-gds/agile-workplace-2874e774c500)
 > * [2015-09-27: PDD - myResponder - ChannelNewsAsia](http://www.channelnewsasia.com/news/singapore/new-government-app/2154120.html)
 
 * {: data-src="/images/gds/1.jpg"} ![](/images/gds/thumb/1.jpg)
