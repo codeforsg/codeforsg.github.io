@@ -77,7 +77,7 @@ Similar efforts have been undertaken in the US with [18F's Cloud Foundry-based c
 ### Recruitment ###
 * [Job description package](https://drive.google.com/file/d/0BwLqF_ka0mesd3h1QkxxT3hSamM/view)
 * Apply through the respective directors or [Steven Koh](mailto:steven_koh@ida.gov.sg) for PDD
-* GDS also hosts [a recruiting competition on Hackertrail](https://www.hackertrail.com/ida), as part of its [Technology Associate Programme](https://www.ida.gov.sg/About-Us/Careers-at-IDA/Technology-Associate-Programme) recruitment efforts (deadline: end Feb 2016)
+* GDS also hosted [a recruiting competition on Hackertrail](https://www.hackertrail.com/ida), as part of its [Technology Associate Programme](https://www.ida.gov.sg/About-Us/Careers-at-IDA/Technology-Associate-Programme) recruitment efforts (ended Feb 2016)
 
 ## **MOE Experimental Systems and Technology Lab**
 *Building software to mould the future of our nation.*
