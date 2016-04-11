@@ -41,8 +41,8 @@ comments: true
 
 ## Relationship between Smart Nation partners
 
-* [CSA](https://www.csa.gov.sg/) has national oversight of cybersecurity including both the public and private sector, with GTO responsible for rule enforcement in the public sector.[^3]
-* SNPO will coordinate Smart Nation initiatives, but all the engineering work and related implementation will be done by GTO.[^3]
+* [CSA](https://www.csa.gov.sg/) has national oversight of cybersecurity including both the public and private sector, with GTA responsible for rule enforcement in the public sector.[^3]
+* SNPO will coordinate Smart Nation initiatives, but all the engineering work and related implementation will be done by GTA.[^3]
 
 
 [^1]: [Exploit Technology for Smart Urban Planning, Peter Quek, CIO URA](/download/2014-10 URA.pdf)

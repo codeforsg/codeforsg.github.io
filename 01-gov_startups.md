@@ -11,7 +11,7 @@ comments: true
 * TOC
 {:toc}
 
-## **GTO Government Digital Services**
+## **GTA Government Digital Services**
 GDS is divided into 3 divisions:
 
 - Data Science Group, led by [Liu Feng Yuan](https://www.linkedin.com/in/feng-yuan-liu-9b09aa42)
@@ -20,13 +20,15 @@ GDS is divided into 3 divisions:
 
 It is supported by the [Smart Nation Programme Office](/gov-others) under the Prime Minister's Office. It is located at the [iDA Hive](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing) in the Sandcrawler building next to Fusionopolis at one-north.
 
-Over the course of 2016, GDS will be folded along with the rest of GCIO into the newly created GTO (headed by current iDA MD Jacqueline Poh.)[^2]
+Over the course of 2016, GDS will be folded along with the rest of GCIO into the newly created GTA, headed by current iDA MD Jacqueline Poh.[^2] (Initially announced as the Government Technology Organisation in Jan 2016, it was later announced by Minister for Communications and Information Yaacom Ibrahim on Mar 24, 2016 that it would be named Government Technology Agency, or GovTech.[^7])
 
 > * [2015-12-28: GDS - Interview with Chan Cheow Hoe, Hd GCIO / Asst CE - The Straits Times](http://www.straitstimes.com/singapore/this-hives-abuzz-with-it-solutions)
 > * [2015-10-29: iDA Press Release on GDS](https://www.ida.gov.sg/About-Us/Newsroom/Media-Releases/2015/Improving-Lives-Through-Data-Science-and-Analytics)
 > * [2015-10-29: iDA Hive Factsheet](/download/2015-10-29 IDA Hive Factsheet.pdf)
 * [2015-06-03: Masterplan - Enterprise Innovation](http://www.enterpriseinnovation.net/article/singapore-govt-reveals-ict-plans-year-1421658407)
 
+[^2]: [MCI Press release, Formation of Infocomm Media Development Authority and Government Technology Organisation.](http://www.mci.gov.sg/web/corp/press-room/categories/press-releases/content/formation-of-infocomm-media-development-authority-and-government-technology-organisation)
+[^7]: > At the dinner, the [IDA] Board was also updated that the new agency set up to lead digital transformation efforts in the public sentor will officially be known as Government Technology Agency, or GovTech. -- [2016-03-24: Facebook - Yaacob Ibrahim](https://www.facebook.com/yaacobibrahim/photos/a.165531120148071.34797.165522780148905/1133492276685279/?type=3&permPage=1)
 
 ### Data Science Group ###
 
@@ -39,7 +41,6 @@ They provide support to other government agencies on a project-by-project basis 
 > * [2015-08-05: DSG - Beeline - ChannelNewsAsia](http://www.channelnewsasia.com/news/singapore/beeline-app-launched-for/2032058.html)
 
 [^1]: [iDA Hive Factsheet, 29 Oct 2015](/download/2015-10-29 IDA Hive Factsheet.pdf).
-[^2]: [MCI Press release, Formation of Infocomm Media Development Authority and Government Technology Organisation.](http://www.mci.gov.sg/web/corp/press-room/categories/press-releases/content/formation-of-infocomm-media-development-authority-and-government-technology-organisation)
 
 ### Product Design & Development ###
 

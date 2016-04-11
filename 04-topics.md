@@ -49,7 +49,7 @@ Common threads within government include:
         * The contractor's process and progress should be continuously assessed, and problems caught right when they are introduced into the codebase when they can be fixed.
     * Long procurement cycles are hard to reconcile with an iterative and agile model of software development.
     * MOE ESTL
-    * GTO GDS
+    * GTA GDS
 * Empowering SWEs with solid infrastructure.
     * Code review tools: [Phabricator](http://phabricator.org/), [GitLab](https://about.gitlab.com/)
     * Self service analytics and ops dashboards.
