@@ -26,7 +26,7 @@
 *[CDA]: Cross-disciplinary Data-intensive Analytics
 *[SREs]: Site reliability engineers
 *[GCIO]: Government Chief Information Office
-*[GTO]: Government Technology Organisation
+*[GTA]: Government Technology Agency
 *[MOE]: Ministry of Education
 *[CSA]: Cyber Security Agency
 *[SNPO]: Smart National Programme Office

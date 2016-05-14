@@ -11,22 +11,24 @@ comments: true
 * TOC
 {:toc}
 
-## **GTO Government Digital Services**
+## **GTA Government Digital Services**
 GDS is divided into 3 divisions:
 
 - Data Science Group, led by [Liu Feng Yuan](https://www.linkedin.com/in/feng-yuan-liu-9b09aa42)
 - Product Design & Development, led by [Mark Lim](https://www.linkedin.com/in/marklcl)
 - Platform as a Service, led by [Parimal Aswani](https://www.linkedin.com/in/paswani)
 
-It is supported by the [Smart Nation Programme Office](/gov-others) under the Prime Minister's Office. It is located at the [iDA Hive](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing) in the Sandcrawler building next to Fusionopolis at one-north.
+It is supported by the [Smart Nation Programme Office](/gov-others) under the Prime Minister's Office. It is located at the 13,000 sq ft [IDA Hive](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing) at the Sandcrawler building in Fusionopolis at one-north.
 
-Over the course of 2016, GDS will be folded along with the rest of GCIO into the newly created GTO (headed by current iDA MD Jacqueline Poh.)[^2]
+Over the course of 2016, GDS will be folded along with the rest of GCIO into the newly created GTA, headed by current IDA MD Jacqueline Poh.[^2] (Initially named the Government Technology Organisation, the final name was announced to be the Government Technology Agency, or GovTech.[^7])
 
-> * [2015-12-28: GDS - Interview with Chan Cheow Hoe, Hd GCIO / Asst CE - The Straits Times](http://www.straitstimes.com/singapore/this-hives-abuzz-with-it-solutions)
-> * [2015-10-29: iDA Press Release on GDS](https://www.ida.gov.sg/About-Us/Newsroom/Media-Releases/2015/Improving-Lives-Through-Data-Science-and-Analytics)
-> * [2015-10-29: iDA Hive Factsheet](/download/2015-10-29 IDA Hive Factsheet.pdf)
+> * [2015-12-28: Interview with Chan Cheow Hoe, Hd GCIO / Asst CE - The Straits Times](http://www.straitstimes.com/singapore/this-hives-abuzz-with-it-solutions)
+> * [2015-10-29: Press Release for the launch of the IDA Hive - IDA](https://www.ida.gov.sg/About-Us/Newsroom/Media-Releases/2015/Improving-Lives-Through-Data-Science-and-Analytics)
+> * [2015-10-29: IDA Hive Factsheet - IDA](/download/2015-10-29 IDA Hive Factsheet.pdf)
 * [2015-06-03: Masterplan - Enterprise Innovation](http://www.enterpriseinnovation.net/article/singapore-govt-reveals-ict-plans-year-1421658407)
 
+[^2]: [MCI Press release, Formation of Infocomm Media Development Authority and Government Technology Organisation.](http://www.mci.gov.sg/web/corp/press-room/categories/press-releases/content/formation-of-infocomm-media-development-authority-and-government-technology-organisation)
+[^7]: > At the dinner, the [IDA] Board was also updated that the new agency set up to lead digital transformation efforts in the public sentor will officially be known as Government Technology Agency, or GovTech. -- [2016-03-24: Facebook - Yaacob Ibrahim](https://www.facebook.com/yaacobibrahim/photos/a.165531120148071.34797.165522780148905/1133492276685279/?type=3&permPage=1)
 
 ### Data Science Group ###
 
@@ -34,12 +36,11 @@ Consisting of nearly 30 data scientists and software engineers, DSG aims to enco
 
 They provide support to other government agencies on a project-by-project basis (e.g. by producing PoCs) and design self-service data analysis tools for WoG. On the public front, they run the data exchange platform [data.gov.sg](https://data.gov.sg), and the [beeline.sg](http://beeline.sg) transport experiment.
 
-> * [2015-10-03: Technical presentation on data.gov.sg - Geekcamp.SG](https://www.youtube.com/watch?v=X4G3ImrxZKQ&feature=youtu.be&t=9m47s)
-> * [2015-09-30: DSG - Interview with Liu Feng Yuan - GovInsider](https://govinsider.asia/smart-gov/exclusive-singapores-radical-new-transport-plan/)
-> * [2015-08-05: DSG - Beeline - ChannelNewsAsia](http://www.channelnewsasia.com/news/singapore/beeline-app-launched-for/2032058.html)
+> * [2015-10-03: Technical presentation on data.gov.sg by Hongyi Li - Geekcamp.SG](https://www.youtube.com/watch?v=X4G3ImrxZKQ&feature=youtu.be&t=9m47s)
+> * [2015-09-30: Interview with Liu Feng Yuan - GovInsider](https://govinsider.asia/smart-gov/exclusive-singapores-radical-new-transport-plan/)
+> * [2015-08-05: Beeline app launch - ChannelNewsAsia](http://www.channelnewsasia.com/news/singapore/beeline-app-launched-for/2032058.html)
 
-[^1]: [iDA Hive Factsheet, 29 Oct 2015](/download/2015-10-29 IDA Hive Factsheet.pdf).
-[^2]: [MCI Press release, Formation of Infocomm Media Development Authority and Government Technology Organisation.](http://www.mci.gov.sg/web/corp/press-room/categories/press-releases/content/formation-of-infocomm-media-development-authority-and-government-technology-organisation)
+[^1]: [IDA Hive Factsheet, 29 Oct 2015](/download/2015-10-29 IDA Hive Factsheet.pdf).
 
 ### Product Design & Development ###
 
@@ -47,9 +48,11 @@ PDD is larger (estimated at 60-80 people) and designs government digital service
 
 PDD also has UX designers and a dedicated design experience lab.
 
-> * [GitHub - iDA GDS PDD](https://github.com/idagds/)
-> * [Photos of iDA GDS PDD workspace](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing)
-> * [2015-09-27: PDD - myResponder - ChannelNewsAsia](http://www.channelnewsasia.com/news/singapore/new-government-app/2154120.html)
+> * [idagds GitHub profile](https://github.com/idagds/)
+> * [Singapore GDS on Medium](https://medium.com/singapore-gds)
+> * [2016-02-10: Photos and 360-degree video tour of GDS workspace - Singapore GDS on Medium](https://medium.com/singapore-gds/agile-workplace-2874e774c500)
+> * [2015-09-27: myResponder app launch - ChannelNewsAsia](http://www.channelnewsasia.com/news/singapore/new-government-app/2154120.html)
+> * [2015-09-15: Photos of IDA GDS workspace - Steven Koh on Google Drive](https://drive.google.com/folderview?id=0BwLqF_ka0mesODNpanZDcnYtYkU&usp=sharing)
 
 * {: data-src="/images/gds/1.jpg"} ![](/images/gds/thumb/1.jpg)
 * {: data-src="/images/gds/2.jpg"} ![](/images/gds/thumb/2.jpg)
@@ -74,7 +77,7 @@ Similar efforts have been undertaken in the US with [18F's Cloud Foundry-based c
 ### Recruitment ###
 * [Job description package](https://drive.google.com/file/d/0BwLqF_ka0mesd3h1QkxxT3hSamM/view)
 * Apply through the respective directors or [Steven Koh](mailto:steven_koh@ida.gov.sg) for PDD
-* GDS also hosts [a recruiting competition on Hackertrail](https://www.hackertrail.com/ida), as part of its [Technology Associate Programme](https://www.ida.gov.sg/About-Us/Careers-at-IDA/Technology-Associate-Programme) recruitment efforts (deadline: end Feb 2016)
+* GDS also hosted [a recruiting competition on Hackertrail](https://www.hackertrail.com/ida), as part of its [Technology Associate Programme](https://www.ida.gov.sg/About-Us/Careers-at-IDA/Technology-Associate-Programme) recruitment efforts (ended Feb 2016)
 
 ## **MOE Experimental Systems and Technology Lab**
 *Building software to mould the future of our nation.*
